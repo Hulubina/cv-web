@@ -1,29 +1,4 @@
-/**
- * =================================================================== 
- *
- *  ResumeTemplate v1.0 ClearCareer
- *  url: clearcareer.ca
- *  Design by: Iskender Piyale-Sheard
- *  website: izzydoesizzy.com
- *  Created 06-27-2016
- *  Last Updated: 03-19-2017
- *  ------------------------------------------------------------------
- *  Table of Contents:
 
- *  01. Global Styles
- *  02. Intro
- *  03. Social Icons
- *  04. Icon Fonts
- *  05. Section Styles
- *  06. Timeline Styles
- *  05. Footer
- EXTRAS
-
- * =================================================================== 
- */
-
-/* 01. Basic Styles
- * =================================================================== */
 
  html {
     overflow-x: hidden;
@@ -77,10 +52,6 @@
 
 
 
-
-
-/* 02. Intro
- * =================================================================== */
 
  .section-image {
  	background: #151515 url(https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
@@ -150,8 +121,6 @@
 
 
 
-/* 03. Social Icons
- * =================================================================== */
 
 .social {
   margin: 0 10px;
@@ -272,8 +241,6 @@ footer p {
 }
 
 
-/* EXTRAS
- * =================================================================== */
 
 
 
